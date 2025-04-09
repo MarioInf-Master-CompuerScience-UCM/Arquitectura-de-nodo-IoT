@@ -1,0 +1,99 @@
+//*****************************************************************************************
+// SoC para los nodos principales + adaptadores WIFI y LORA
+//*****************************************************************************************
+
+// ESP32 LORA WIFI
+https://www.amazon.es/Seamuing-Desarrollo-Consumo-Energ%C3%ADa-Pantalla/dp/B099ZMYQ4L/ref=sr_1_5?keywords=esp32+lora&qid=1700926491&sr=8-5
+
+// ESP32 LORA WIFI GATEWAY
+https://tienda.bricogeek.com/descatalogado/1521-sparkfun-lora-gateway-esp32.html
+
+// Seamuing LORA sin WIFI 
+https://www.amazon.es/LoRaWAN-Development-ASR6501-Energ%C3%A9tica-Inteligente/dp/B07ZH7NL38/ref=sr_1_3?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=25O5SM75FE2Y3&keywords=iot%2Bwifi%2Blora&qid=1700926770&s=electronics&sprefix=iot%2Bwifi%2Blor%2Celectronics%2C98&sr=1-3&th=1
+
+// Onion Omega 2 | Wifi, falta lora, desarrollo python/nodejs
+https://es.aliexpress.com/item/10000311459840.html?spm=a2g0o.productlist.main.23.7beb50ceTjVEji&algo_pvid=397bff5a-ec7c-4aeb-9808-ef583c39349f&algo_exp_id=397bff5a-ec7c-4aeb-9808-ef583c39349f-11&pdp_npi=4%40dis%21EUR%2148.10%2148.1%21%21%21366.07%21%21%40211b600517009286593762712e8457%2120000000168366757%21sea%21ES%210%21AB&curPageLogUid=T1Z2vKe9MEyG
+
+
+
+// Adaptador lora
+https://www.amazon.es/LORA1276-C1-SX1276-LoRa-m%C3%B3dulo-receptor/dp/B07CNFFNJ4/ref=sr_1_3?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1F36HJRSTKS2P&keywords=receptor+LORA&qid=1700927476&s=electronics&sprefix=receptor+lora%2Celectronics%2C73&sr=1-3
+
+// Adaptador WIFI
+https://www.amazon.es/Wishiot-ESP8266-transceptor-Compatible-Ar-duino/dp/B0BQMMKWD2/ref=sr_1_57?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1CZLZSK60Z2L2&keywords=modulo+wifi+arduino&qid=1700927982&sprefix=modulo+wifi+arduino%2Caps%2C141&sr=8-57
+
+
+
+//*********************************************
+// SoC para el nodo válvula
+//*********************************************
+
+// Nodo válvula
+https://www.catsensors.com/media/AonChip/Manual_WATERSENS_UMAOC001_rev_E_27_09_19.pdf
+
+
+
+//*********************************************
+// Periféricos
+//*********************************************
+
+//Sensor de humedad de suelo Selly (22€)
+https://www.shellyespana.com/sensor-de-humedad-para-shelly-plus-addon/?utm_source=Google%20Shopping&utm_campaign=Feed&utm_medium=cpc&utm_term=302105&gad_source=1&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWRK_F4FbmMnoDtZKHJvYqc3vOn862lH4cX_Jwl58wiBlLM5Pbb45bkaAjVGEALw_wcB
+
+//Sensor de humedad de suelo DFRobot (17€)
+https://es.rs-online.com/web/p/kits-de-desarrollo-de-sensores/2049905?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Pmax_Test-_--_-2049905&matchtype=&&gad_source=1&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWR5H1HbHfAE19GiMjSxY1sTFvMxlh6zot5ZfvUwXd4ltjqsZBWK7VwaAvAREALw_wcB&gclsrc=aw.ds
+
+//Sensor de humedad de suelo Seeed Technology (117€)
+https://www.digikey.es/es/products/detail/seeed-technology-co.,-ltd/114992870/16399737
+
+
+
+//Sensor de temperatura estanco DFRobot (7€)
+https://es.rs-online.com/web/p/kits-de-desarrollo-de-sensores/2049893
+
+//Sensor de temperatura aleman PT1000 (14€)
+https://www.amazon.es/PT1000-Sensor-temperatura-sensor-memoria/dp/B088V57JH2?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1AT7YVPFBWXBL&th=1
+
+//Sensor de temperatura meteorológica Yageo (36€)
+https://www.sotel.de/es/Smart-Home/Bauelemente/Heraeus-Nexensos-W-EYK-6-PT100-Platin-Temperatursensor-40-hasta-500-C-100-3850-ppm-K.html?cur=0&shipto=ES
+
+
+
+//Electroválcula riego Toro (23€)
+https://www.amazon.es/V%C3%A1lvulas-Programador-automatico-Electrovalvula-EZP-03-54/dp/B0CGVNZ9ZN?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A18PG5B05N1M6B
+
+//Electroválvula 12V (22€)
+https://www.amazon.es/Electrov%C3%A1lvula-El%C3%A9ctrica-Normalmente-Electromagn%C3%A9tica-Interruptor/dp/B07VX76YDR?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1JSXUTTTNUJKP&th=1
+
+//Electrovávula 6V (27€)
+https://www.amazon.es/solenoide-inductiva-urinario-Accesorio-mantenimiento/dp/B07X3PFRDY?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1DAESTAIP4Z8S&th=1
+
+
+
+//Sensor de preseion de agua G1 (14€)
+https://eu.robotshop.com/es/products/water-pressure-sensor-g1-4-12mpa?srsltid=AfmBOorAw2QhS4PXxeWUGe7EDOZ-UcGBf1iONGLBcf7eA3HSROwkClSEN78
+
+//Sensor de preseion de agua Jadeshay (26€)
+https://www.amazon.es/Transductor-presi%C3%B3n-Jadeshay-Presi%C3%B3n-Gas%C3%B3leo/dp/B07LFFSQ39?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A68YOTXQQLJUV
+
+//Sensor de preseion de agua Jadeshay (140€)
+https://adajusa.es/es/presostatos-y-vacuostatos/13950-transductor-de-presion-0-a-10-bar-tsp-10-12-toscano-8436041052869.html?srsltid=AfmBOood3VhGzluBqsnusXK1nfRwCNN_Sm14MI9B2N82hxMfvjtSgcjDNVE
+
+
+
+//Cámara HD IR-CUT (20€)
+https://www.amazon.es/Nocturna-Compatible-Raspberry-Enfoque-Ajustable/dp/B08ZY7V5XW?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A29GLTZVCZ0ISR
+
+// Cámara monocromo Industrial OV9281 (35€)
+https://www.amazon.es/Raspberry-Industrial-External-Trigger-Monochrome/dp/B09WTP5GZH?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A3LR51RN935ZZX&th=1
+
+// Cámara HD tevi (100€)
+https://www.technexion.com/shop/embedded-vision/mipi-csi2/evk/tevi-ar0144-c-s83-ir-evk/
+
+
+
+//Display LCD dos líneas (25€)
+https://es.rs-online.com/web/p/displays-monocromos-lcd/2143525?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Pmax_Test-_--_-2143525&matchtype=&&gad_source=1&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWRSDhnps_s7Es8KAP8_lGxYz1-Y7944ZduCxU0mthvcBefCiT3itfgaAq6YEALw_wcB&gclsrc=aw.ds
+
+//Display LCD 128x64 (32€)
+https://es.rs-online.com/web/p/kits-de-desarrollo-de-pantallas/1683095?cm_mmc=ES-PLA-DS3A-_-google-_-CSS_ES_ES_Pmax_Test-_--_-1683095&matchtype=&&gad_source=1&gclid=Cj0KCQiAyeWrBhDDARIsAGP1mWTAKj8s500kiTmhFRYhAd_-uABMNYetk8PXTnrGLOQSrgOlWw5VTyAaAi-EEALw_wcB&gclsrc=aw.ds
